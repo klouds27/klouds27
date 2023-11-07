@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adolfogonzpe@gmail.com**
 
-- 📄 Know about my experiences [https://my-new-portfolio-beige.vercel.app/resume](https://my-new-portfolio-beige.vercel.app/resume)
+- 📄 Know about my experience [https://my-new-portfolio-beige.vercel.app/resume](https://my-new-portfolio-beige.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
