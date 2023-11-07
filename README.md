@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kobaad27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kobaad27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adolfo gonzález del corral pérez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adolfo gonzález del corral pérez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adolfo-gonzález-del-corral-pérez-381106206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adolfo gonzález del corral pérez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22714482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22714482" height="30" width="40" /></a>
 <a href="https://medium.com/@adolfogonzpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adolfogonzpe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anotherkloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anotherkloud" height="30" width="40" /></a>
