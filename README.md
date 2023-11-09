@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **webApp Development, Quality Assurance and DSA**
 
-- 📫 How to reach me **adolfogonzpe@gmail.com**
+- 📫 How to reach me ***
 
 - 📄 Know about my experience [https://my-new-portfolio-beige.vercel.app/resume](https://my-new-portfolio-beige.vercel.app/resume)
 
