@@ -12,13 +12,11 @@
 
 - I’m looking to collaborate on **any interesting open source projects**
 
-- 👨‍💻 All of my projects are available at [https://my-new-portfolio-beige.vercel.app](https://my-new-portfolio-beige.vercel.app)
+
 
 - 💬 Ask me about **webApp Development, Quality Assurance and DSA**
 
-- 📫 How to reach me ***
 
-- 📄 Know about my experience [https://my-new-portfolio-beige.vercel.app/resume](https://my-new-portfolio-beige.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
