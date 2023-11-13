@@ -1,27 +1,29 @@
 [![MasterHead](https://wired-7.org/lain/src/1564627438752.jpg)]()
-<h1 align="center">Hi , I'm Ana</h1>
-<h3 align="center">  passionate FullStack developer from Spain</h3>
+<h1 align="center">Hi , I'm Adolfo</h1>
+<h3 align="center">  Passionate FullStack developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klouds27&label=Profile%20views&color=0e75b6&style=flat" alt="klouds27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kobaad27" target="blank"><img src="https://img.shields.io/twitter/follow/kobaad27?logo=twitter&style=for-the-badge" alt="kobaad27" /></a> </p>
 
-- 🔭 I’m currently working on [novu, open-source notification infrastructure with fully functional embedded notification center](https://github.com/klouds27/novu)
+- 🔭 I’m currently working on [Real Estate app using MERN stack and Tailwind CSS](https://github.com/klouds27/mern-estate)
 
 - 🌱 I’m currently learning **Springboot, angular, .NET**
 
 - I’m looking to collaborate on **any interesting open source projects**
 
-
+- 👨‍💻 All of my projects are available at [https://my-new-portfolio-beige.vercel.app](https://my-new-portfolio-beige.vercel.app)
 
 - 💬 Ask me about **webApp Development, Quality Assurance and DSA**
 
+- 📫 How to reach me adolfogonzpe@gmail.com
 
+- 📄 Know about my experience [https://my-new-portfolio-beige.vercel.app/resume](https://my-new-portfolio-beige.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kobaad27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kobaad27" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/adolfo-gonzález-del-corral-pérez-381106206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adolfo gonzález del corral pérez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22714482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22714482" height="30" width="40" /></a>
 <a href="https://medium.com/@adolfogonzpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adolfogonzpe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anotherkloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anotherkloud" height="30" width="40" /></a>
