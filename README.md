@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Real Estate app using MERN stack and Tailwind CSS](https://github.com/klouds27/mern-estate)
 
-- 🌱 I’m currently learning **Springboot, angular, .NET**
+-  I’m currently learning **Springboot, angular, .NET**
 
 - I’m looking to collaborate on **any interesting open source projects**
 
