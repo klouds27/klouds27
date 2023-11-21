@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-new-portfolio-beige.vercel.app](https://my-new-portfolio-beige.vercel.app)
 
-- 💬 Ask me about **webApp Development, Quality Assurance and DSA**
+-  Ask me about **webApp Development, Quality Assurance and DSA**
 
 - 📫 How to reach me adolfogonzpe@gmail.com
 
