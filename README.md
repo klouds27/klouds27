@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kobaad27" target="blank"><img src="https://img.shields.io/twitter/follow/kobaad27?logo=twitter&style=for-the-badge" alt="kobaad27" /></a> </p>
 
-- 🔭currently working on [ANODE, a Full Stack Social Media App with React JS, Appwrite, Tailwind CSS, React Query](https://github.com/klouds27/anode)
+- 🔭 I'm currently working on [ANODE, a Full Stack Social Media App with React JS, Appwrite, Tailwind CSS, React Query](https://github.com/klouds27/anode)
 
 -  I’m currently learning **Springboot, angular, .NET**
 
