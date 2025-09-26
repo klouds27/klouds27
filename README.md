@@ -1,22 +1,15 @@
 [![MasterHead](https://wired-7.org/lain/src/1564627438752.jpg)]()
-<h1 align="center">Hola, soy Adolfo</h1>
-<h3 align="center">  Desarrollador FullStack de España</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klouds27&label=Profile%20views&color=0e75b6&style=flat" alt="klouds27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kobaad27" target="blank"><img src="https://img.shields.io/twitter/follow/kobaad27?logo=twitter&style=for-the-badge" alt="kobaad27" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en ANODE, una aplicación Full Stack con React JS, Appwrite, Tailwind CSS, React Query (https://github.com/klouds27/anode)
 
-- Estoy aprendiendo Springboot, Angular y .NET
 
-- Estoy buscando colaborar en proyectos de código abierto
+ [My Portfolio](https://my-new-portfolio-beige.vercel.app)
 
-- 👨‍💻  Todos mis proyectos están disponibles en  [My Portfolio](https://my-new-portfolio-beige.vercel.app)
 
-- 📫Cómo contactarme: adolfogonzpe@gmail.com
-
-- 📄 Conoce más sobre mi experiencia [My Portfolio](https://my-new-portfolio-beige.vercel.app/resume)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
