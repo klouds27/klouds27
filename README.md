@@ -7,5 +7,5 @@
 
 
 
- [My Portfolio](https://my-new-portfolio-beige.vercel.app)
+ [Portfolio](https://my-new-portfolio-beige.vercel.app)
 
