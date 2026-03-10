@@ -1,4 +1,4 @@
-[![MasterHead](https://wired-7.org/lain/src/1564627438752.jpg)]()
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klouds27&label=Profile%20views&color=0e75b6&style=flat" alt="klouds27" /> </p>
