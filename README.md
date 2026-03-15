@@ -7,5 +7,4 @@
 
 
 
- [Portfolio](https://my-new-portfolio-beige.vercel.app) outdated, workin on a new one
 
