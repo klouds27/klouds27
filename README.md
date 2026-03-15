@@ -1,10 +1,20 @@
 
+DAM student based in Sevilla. Curious about how things work under the hood
+
+Currently building **MiParte** — a shared expense manager for groups.
+Flutter + Firebase, BLoC architecture, debt simplification algorithm, idempotent payment flow.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klouds27&label=Profile%20views&color=0e75b6&style=flat" alt="klouds27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kobaad27" target="blank"><img src="https://img.shields.io/twitter/follow/kobaad27?logo=twitter&style=for-the-badge" alt="kobaad27" /></a> </p>
+**languages** — Java · Dart · JavaScript · Python · SQL
 
+**mobile** — Flutter · Firebase (Firestore, Auth, FCM)
 
+**backend** — FastAPI · SQLAlchemy · REST · JWT
 
+**tools** — Git · Linux · WSL2
+
+---
+
+open to junior backend or mobile roles · adalwolfad@gmail.com
 
